@@ -30,8 +30,8 @@ Los usuarios deben ser capaces de:
 
 ### Links
 
-- Solucion URL: [Add solution URL here](https://your-solution-url.com)
-- Sitio URL: [Add live site URL here](https://your-live-site-url.com)
+- Solucion URL: [https://github.com/NicolasGula/social-proof-section](https://github.com/NicolasGula/social-proof-section)
+- Sitio URL: [https://nicolasgula.github.io/social-proof-section/](https://nicolasgula.github.io/social-proof-section/)
 
 
 ### Echo con
